@@ -78,4 +78,5 @@ public class Main {
         // Lógica de consulta do CEP aqui
         return "Rua Exemplo, 123 - Bairro Exemplo, Cidade Exemplo";
     }
+  
 }
